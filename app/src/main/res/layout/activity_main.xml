@@ -65,10 +65,11 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="15dp"
         android:text="Login"
+        android:textColor="@color/white"
         android:id="@+id/btnlogin"
         android:textAllCaps="false"
         android:enabled="false"
-        android:background="@color/teal_700"
+        android:backgroundTint="@color/teal_200"
         />
 
 </LinearLayout>
