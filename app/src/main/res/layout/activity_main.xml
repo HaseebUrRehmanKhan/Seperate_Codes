@@ -65,6 +65,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="15dp"
         android:text="Login"
+
         android:textColor="@color/white"
         android:id="@+id/btnlogin"
         android:textAllCaps="false"
